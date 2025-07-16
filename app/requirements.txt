@@ -1,0 +1,10 @@
+fastapi>=0.115.14
+uvicorn[standard]>=0.32.1
+python-multipart
+pydantic-settings
+pydantic[email]
+python-dotenv
+sqlalchemy>=2.0.0
+pymysql>=1.1.0
+alembic>=1.13.0
+passlib[bcrypt]>=1.7.4
